@@ -1,0 +1,16 @@
+{
+    "name": "djmbdv/massive_mailer",
+    "description": "AppWeb de emails masivos",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    },
+    "license": "private",
+    "authors": [
+        {
+            "name": "David Marquez",
+            "email": "djmbdv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
